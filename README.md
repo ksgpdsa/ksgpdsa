@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, sou Kaio Souza Batista 👋
 
-<!--
-**ksgpdsa/ksgpdsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 *Estou trabalhando com ASP .NET CORE 5*
+- Repository Pattern
+- Service Pattern
+- Unity of Work
+- Dapper
+- Dependency Injection
+- SOLID
+- POO
 
-Here are some ideas to get you started:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ksgpdsa&theme=dark&background=000000)](https://www.linkedin.com/in/kaio-souza-batista-083770118/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksgpdsa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <img src="http://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif" height="400"/>
+</div>
